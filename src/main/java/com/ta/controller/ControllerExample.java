@@ -17,10 +17,9 @@ import org.springframework.web.bind.annotation.RestController;
 //import com.ta.Service.TestControllerImpl;
 
 @RestController
-@RequestMapping("/gayu/")
+@RequestMapping("/arun/")
 
 public class ControllerExample {
-
 	String calculation;
 //	@Autowired TestControllerImpl obj;
     @Value("${fpath}")
