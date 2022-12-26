@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 //import com.ta.Service.TestControllerImpl;
 
 @RestController
-@RequestMapping("/arun/")
+@RequestMapping("/gayu/")
 
 public class ControllerExample {
 	String calculation;
